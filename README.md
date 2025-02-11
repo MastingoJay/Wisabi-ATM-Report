@@ -1,5 +1,8 @@
 # Wisabi ATM Transactions Report Project
 
+![Home Page](https://github.com/MastingoJay/Wisabi-ATM-Report/blob/main/PICTURES/atm%20.jpg
+)
+
 # Project Overview
 
 Wisabi Bank wants to analyze its ATM transactions to improve service efficiency, customer experience, and ATM utilization. This project provides insights into transaction trends, customer behavior, and ATM performance across different locations.
