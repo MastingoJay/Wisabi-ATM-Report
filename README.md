@@ -52,6 +52,9 @@ Time of Transaction
 Customer Type (Wisabi vs. Non-Wisabi)
 
 # Key Findings
+![Overview Page](https://github.com/MastingoJay/Wisabi-ATM-Report/blob/main/PICTURES/overview%20visualization.png
+)
+
 
 #### Transaction Trends & User Behavior
 
